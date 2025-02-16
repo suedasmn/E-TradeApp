@@ -1,4 +1,4 @@
-# 🛍️ `E-Commerce Website`
+# 🛍️ `E-Commerce Web App`
 
 ## 📌 `Project Overview`
 
